@@ -13,4 +13,3 @@ class WelcomeScreen(Level):
         
         # add title object
         self.add_room_object(Title(self, 240, 200))
-        

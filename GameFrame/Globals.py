@@ -1,4 +1,3 @@
-
 class Globals:
 
     running = True
@@ -15,8 +14,8 @@ class Globals:
     # - Set the Window display name - #
     window_name = 'Space Rescue'
 
-    # - Set the order of the rooms - #
-    levels = ["WelcomeScreen", "Maze", "ScrollingShooter", "BreakOut"]
+    #   - Set the order of the rooms - #
+    levels = ["WelcomeScreen", "GamePlay"]
 
     # - Set the starting level - #
     start_level = 0
